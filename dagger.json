@@ -1,0 +1,6 @@
+{
+  "name": "go-pipeline",
+  "sdk": "go",
+  "source": "dagger",
+  "engineVersion": "v0.11.0"
+}
